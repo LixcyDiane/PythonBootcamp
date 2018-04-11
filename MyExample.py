@@ -18,6 +18,8 @@ print(variable)
 print(variable[2]) #shows character in index 2
 print(variable[4:]) #shows all characters starting from index 4
 print(variable[:6]) #shows all characters from index 0 to index 5
+print(variable[-1]) #shows last character 
+print(variable[:-1]) #show all characters except last one
 
 #variable slicing 
 print(variable[0:5:1]) #from index 0 to index 4 in steps of 1
