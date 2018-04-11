@@ -27,3 +27,7 @@ print(variable[::-1]) #shows everything backwards
 print(variable[0:5:1]) #from index 0 to index 4 in steps of 1
 print(variable[0:8:2]) #from index 0 to index 7 in steps of 2
 
+#repetition
+letter = 'k'
+print(letter * 5)
+
