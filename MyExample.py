@@ -28,6 +28,8 @@ print(variable[0:5:1]) #from index 0 to index 4 in steps of 1
 print(variable[0:8:2]) #from index 0 to index 7 in steps of 2
 
 #repetition
-letter = 'k'
-print(letter * 5)
+letter = 'kilo'
+print(letter * 5 ) #repeats variable value 5 times
+print(letter.upper()) #makes all letters uppercase
+print(letter.lower()) #makes all letters lowercase
 
