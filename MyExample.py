@@ -21,6 +21,7 @@ print(variable[:6]) #shows all characters from index 0 to index 5
 print(variable[-1]) #shows last character 
 print(variable[:-1]) #show all characters except last one
 print(variable[::3]) #shows everything going in steps of 3
+print(variable[::-1]) #shows everything backwards
 
 #variable slicing 
 print(variable[0:5:1]) #from index 0 to index 4 in steps of 1
